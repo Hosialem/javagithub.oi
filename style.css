@@ -1,0 +1,12 @@
+body{
+  background: #1d2630;
+  
+  }
+  *{
+  color:#fff;
+  
+  
+  }
+  #update{
+    display: none;
+  }
